@@ -20,13 +20,16 @@
 .card{
    
     border-style: double;
-    padding: 10em
+    border-color: #cce5a5;
+    border-width: 5cm;
+    text-align: center;
 }
 
 .bg{
-    background-color: #4dad48;
+    background-color: #4dad48 ;
 }
 
 .navbar-toggler{
     color: darkblue;
 }
+
